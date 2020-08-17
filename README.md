@@ -81,7 +81,7 @@
 </tbody>
 </table>
 </br>
-
+<p><strong>John Edensor Littlewood</strong>&nbsp;<span class="noexcerpt nowraplinks"><a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a></span>&nbsp;(9 June 1885 &ndash; 6 September 1977) was an English mathematician. He worked on topics relating to&nbsp;<a title="Mathematical analysis" href="https://en.wikipedia.org/wiki/Mathematical_analysis">analysis</a>,&nbsp;<a title="Number theory" href="https://en.wikipedia.org/wiki/Number_theory">number theory</a>, and&nbsp;<a title="Differential equation" href="https://en.wikipedia.org/wiki/Differential_equation">differential equations</a>, and had a lengthy collaboration with&nbsp;<a title="G. H. Hardy" href="https://en.wikipedia.org/wiki/G._H._Hardy">G.&nbsp;H. Hardy</a>&nbsp;and&nbsp;<a title="Mary Cartwright" href="https://en.wikipedia.org/wiki/Mary_Cartwright">Mary Cartwright</a>.</p>
 </br>
 
 <h2> Books </h2>
